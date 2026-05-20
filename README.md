@@ -65,7 +65,7 @@ The module automatically registers components with the `Maya` prefix and injects
 Give your coding assistant the Maya UI component reference, token system, and usage patterns:
 
 ```bash
-npx skills TheAlphaOnes/maya-ui
+npx skills add TheAlphaOnes/maya-ui
 ```
 
 The skill helps agents generate Maya UI screens with the right component names, props, spacing, and design conventions.

@@ -25,7 +25,7 @@ const handleLink = (url) => {
 
 const installCommands = [
   'pnpm add -D @thenormvg/maya-ui',
-  'npx skills TheAlphaOnes/maya-ui'
+  'npx skills add TheAlphaOnes/maya-ui'
 ]
 
 onMounted(() => {

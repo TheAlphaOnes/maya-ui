@@ -31,7 +31,7 @@ yarn add -D maya-ui
 If you are using an AI coding assistant (like Antigravity or Cursor), you can install the **Maya UI Agent Skill**. This provides the agent with full knowledge of all 90+ components, spacing patterns, and design tokens, enabling it to write perfect Maya UI code for you.
 
 \`\`\`bash
-npx skills TheAlphaOnes/maya-ui
+npx skills add TheAlphaOnes/maya-ui
 \`\`\`
 
 ---
